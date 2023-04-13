@@ -36,15 +36,10 @@ To replicate the results in the paper for CIFAR10  dataset, please set the param
 python extractor.py
 ```
 
-## Training
-Then run the following code to train the model on the features of Cifar10
+## Training on CIFAR10
+Then run the following code to train the model on the features of dataset Cifar10
 ```
-python train.py -h
-```
-
-### Training on CIFAR10
-To train the model on CIFAR10 dataset for a given anomaly class, run the following:
-``` 
 python main.py 
 ```
+
 
