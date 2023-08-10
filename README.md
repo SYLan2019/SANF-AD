@@ -1,6 +1,5 @@
 # SANF-AD
 ICME2023--A Semantic-awareness Normalizing Flow Model for Anomaly Detection. 
-Accepted.
 
 
 ## Paper Introduction
